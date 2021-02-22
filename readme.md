@@ -4,4 +4,4 @@
 	<b>username</b> : admin <br>
 	<b>password</b> : admin
 </p><br>
-<img src="https://github.com/faheemmehdi/Login-System-in-PHP/img.jpg" alt="">
+<img src="https://raw.githubusercontent.com/faheemmehdi/Login-System-in-PHP/master/img.JPG" alt="">
